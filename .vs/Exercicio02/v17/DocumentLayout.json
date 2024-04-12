@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\44939984826\\Documents\\C\u002B\u002B\\Exercicio02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{783E3346-324A-4090-AE6C-21AB54899030}|Exercicio02\\Exercicio02.vcxproj|C:\\Users\\44939984826\\Documents\\C\u002B\u002B\\Exercicio02\\Exercicio02\\Exercicio02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{783E3346-324A-4090-AE6C-21AB54899030}|Exercicio02\\Exercicio02.vcxproj|solutionrelative:Exercicio02\\Exercicio02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exercicio02.cpp",
+              "DocumentMoniker": "C:\\Users\\44939984826\\Documents\\C\u002B\u002B\\Exercicio02\\Exercicio02\\Exercicio02.cpp",
+              "RelativeDocumentMoniker": "Exercicio02\\Exercicio02.cpp",
+              "ToolTip": "C:\\Users\\44939984826\\Documents\\C\u002B\u002B\\Exercicio02\\Exercicio02\\Exercicio02.cpp",
+              "RelativeToolTip": "Exercicio02\\Exercicio02.cpp",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAAGwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-12T19:06:25.009Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
